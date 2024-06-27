@@ -1,7 +1,7 @@
 - 👋 Hi, I’m B Jack
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning wordpress theme creation, html css and javascript 
-- 💞️ I’m looking to collaborate on developping websites
+- 👀 A webdesigner 
+- 🌱 I’m currently learning more on wordpress theme creation, html css and javascript 
+- 💞️ I’m looking for more collabo on developping websites
 - 📫 How to reach me : bjackdesigner@gmail.com
 
 <!---
